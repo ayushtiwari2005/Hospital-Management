@@ -1,16 +1,7 @@
 
-# Hospital Management
-![developer](https://img.shields.io/badge/Developed%20By%Husanddeep Singh, Harmanjot bawa , Ayush Tiwari , Harshit)
----
-## screenshots
-### Homepage
-![homepage snap](https://github.com/sumitkumar1503/hospitalmanagement/blob/master/static/screenshots/homepage.png?raw=true)
-### Admin Dashboard
-![dashboard snap](https://github.com/sumitkumar1503/hospitalmanagement/blob/master/static/screenshots/admin_dashboard.png?raw=true)
-### Invoice
-![invoice snap](https://github.com/sumitkumar1503/hospitalmanagement/blob/master/static/screenshots/invoice.png?raw=true)
-### Doctor list
-![doctor snap](https://github.com/sumitkumar1503/hospitalmanagement/blob/master/static/screenshots/admin_doctor.png?raw=true)
+# DEVELOPER
+Husanddeep Singh, Harmanjot bawa , Ayush Tiwari , Harshit
+Mentor : Rohini Sharma 
 ---
 ## Functions
 ### Admin
