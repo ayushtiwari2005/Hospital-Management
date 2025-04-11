@@ -3,6 +3,8 @@
 Husanddeep Singh, Harmanjot bawa , Ayush Tiwari , Harshit
 Mentor : Rohini Sharma 
 ---
+Mentor : Rohini Sharma 
+---
 ## Functions
 ### Admin
 - Signup their account. Then Login (No approval Required).
